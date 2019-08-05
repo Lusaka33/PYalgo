@@ -1,4 +1,4 @@
 def	ft_swap(a, b):
-	i = a
+	temp = a
 	a = b
-	b = i
+	b = temp
